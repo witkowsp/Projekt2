@@ -1,0 +1,26 @@
+body{
+	color: black;
+	background-color: #FAEBD7;
+    background-position: center;
+	background-size:cover;
+	font-family: 'Lato', sans-serif;
+}
+
+#formularz{
+	width:500px;
+	text-align: left;
+	padding:20px;
+	border: 3px solid black;
+}
+h1{
+	text-align:center;
+	
+}
+#napis{
+	position: fixed;
+	bottom: 5px;
+	right: 5px;
+}
+#walidatory{
+		text-align: center;	
+}
